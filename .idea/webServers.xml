@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e6ef7ecd-1ff3-40c4-89ec-f8cb1558a840" name="mountain Vacation" url="http://ftp.mountainvacations.in">
+        <fileTransfer host="ftp.mountainvacations.in" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
